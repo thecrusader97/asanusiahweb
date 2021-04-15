@@ -1,0 +1,16 @@
+
+/* Modify the background color */
+  
+.navbar-custom {
+    background-image: linear-gradient(#FFD700, white) ;
+}
+/* Modify brand and text color */
+  
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #000;
+}
+.bg-footer {
+  background-image: linear-gradient(#FFD700, white) ;
+}
+
